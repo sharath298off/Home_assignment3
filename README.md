@@ -110,7 +110,5 @@ In short, pre-trained models provide a powerful starting point and reduce the ba
 
 -----------------------------------------------------------------------------------------------------------
 
-GitHub : https://github.com/LakshmiSoftEng/NeuralNtwDeepLearnin.git
-
 
 
