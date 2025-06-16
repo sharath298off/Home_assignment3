@@ -1,7 +1,7 @@
 from transformers import pipeline
 classifier = pipeline("sentiment-analysis", framework="pt")  # Force PyTorch
 
-# Input sentence
+# Input sentnce
 sentence = "Despite the high price, the performance of the new MacBook is outstanding."
 
 # Run sentiment analysis
