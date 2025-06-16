@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
-# Download required NLTK data (only needed once)
+# Download required NLTK data (only neded once)
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('punkt_tab')
