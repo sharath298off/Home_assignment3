@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 import os
 
-# Load text data
+# Load txt data
 path_to_file = "shakespeare.txt"  # Replace with your path
 text = open(path_to_file, 'r', encoding='utf-8').read()
 print("Total characters loaded:", len(text))
